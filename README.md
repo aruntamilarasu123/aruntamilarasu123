@@ -1,21 +1,21 @@
-<h1 align="center">Hi 👋, I'm Arun Tamil</h1>
-<h3 align="center">A Passionate MERN Stack Developer from Tamil Nadu 🇮🇳</h3>
+<h1 align="center">Hi 👋, I'm Arun Tamilarasu</h1>
+<h3 align="center">Certified MERN Stack Developer | B.A. Tamil Literature Graduate</h3>
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍🎓 About Me
 
-- 🔭 I’m currently working on **Full-Stack MERN Applications**
-- 🌱 I’m learning **Next.js, AWS Cloud, and DevOps Basics**
-- 💼 Open to full-time MERN stack developer roles (Remote/Onsite)
-- ✍️ I'm also building UI/UX-friendly apps using **Tailwind CSS**
-- 💬 Ask me about **React, Node, MongoDB, REST APIs, Razorpay Integration**
+- 🎓 I completed my B.A. in **Tamil Literature** and discovered a strong passion for web development
+- 🧑‍💻 I’m a **Certified MERN Stack Developer** (MongoDB, Express, React, Node.js) from **GUVI Geek Network Private Limited**
+- 🌱 I’m currently building full-stack web applications using JavaScript and modern UI frameworks
+- 💼 Actively seeking **fresher-level opportunities** as a MERN Stack or Front-End Developer
+- 💬 Ask me about **React, Node.js, MongoDB, REST APIs, Tailwind CSS**
 - 📫 Reach me at **aruntamilweb@gmail.com**
-- 🌐 Visit my portfolio: [aruntamil.netlify.app](https://aruntamil.netlify.app/)
+- 🌐 Portfolio: [aruntamil.netlify.app](https://aruntamil.netlify.app/)
 
 ---
 
-### 🚀 Connect with me
+### 🌐 Connect with Me
 
 <p align="left">
   <a href="https://aruntamil.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
@@ -25,7 +25,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Skills & Tools
 
 <p>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white"/>
@@ -37,31 +37,30 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white"/>
 </p>
 
 ---
 
-### ✨ Highlight Projects
+### 💼 My Practice Projects
 
-- 🛒 [**E-Commerce MERN App**](https://github.com/aruntamilarasu123)  
-  Full-featured MERN stack store with cart, wishlist, Razorpay integration, order management, and admin dashboard.
+- 🛒 [**E-Commerce App**](https://github.com/aruntamilarasu123)  
+  Full-stack shopping app using MERN stack with cart, wishlist, and Razorpay integration
 
-- 🧾 [**Invoice Generator App**](https://github.com/aruntamilarasu123)  
-  Dynamic invoice builder using React, context, and Tailwind – includes export and print support.
+- 🧾 [**Invoice Generator**](https://github.com/aruntamilarasu123)  
+  React + Tailwind app to create, export, and print invoices with dynamic item lists
 
 - 📷 [**Photography Portfolio**](https://github.com/aruntamilarasu123)  
-  Personal photo gallery built in React & Tailwind CSS to showcase images with smooth UX.
+  Simple photo gallery web app using React & Tailwind to showcase images
 
 ---
 
-### 📊 GitHub Stats
+### 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=aruntamilarasu123&show_icons=true&theme=react" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aruntamilarasu123&show_icons=true&theme=react" />
 </p>
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=aruntamilarasu123&theme=react" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=aruntamilarasu123&theme=react" />
 </p>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aruntamilarasu123&layout=compact&theme=react" />
@@ -69,5 +68,5 @@
 
 ---
 
-> 💡 This profile is always evolving—new projects and improvements coming soon. Thanks for visiting! 🚀
+> 🎯 My goal is to combine creative thinking from my literature background with technical skill to build powerful, user-friendly web apps.
 
