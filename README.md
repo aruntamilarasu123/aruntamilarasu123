@@ -10,7 +10,7 @@
 - 🌱 I’m currently building full-stack web applications using JavaScript and modern UI frameworks
 - 💼 Actively seeking **fresher-level opportunities** as a MERN Stack or Front-End Developer
 - 💬 Ask me about **React, Node.js, MongoDB, REST APIs, Tailwind CSS**
-- 📫 Reach me at **aruntamilweb@gmail.com**
+- 📫 Reach me at **aruntamil087@gmail.com**
 - 🌐 Portfolio: [aruntamil.netlify.app](https://aruntamil.netlify.app/)
 
 ---
@@ -19,7 +19,7 @@
 
 <p align="left">
   <a href="https://aruntamil.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/aruntamilarasu123" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/arun-t-07b683331/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:aruntamilweb@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -46,11 +46,11 @@
 - 🛒 [**E-Commerce App**](https://github.com/aruntamilarasu123)  
   Full-stack shopping app using MERN stack with cart, wishlist, and Razorpay integration
 
-- 🧾 [**Invoice Generator**](https://github.com/aruntamilarasu123)  
-  React + Tailwind app to create, export, and print invoices with dynamic item lists
+- 🧾 [**Invoice Builder**](https://github.com/aruntamilarasu123/Invoice-Builder)  
+  Users can input client info, add items (unit, quantity, rate), auto-calculate totals and tax, and export the invoice as a PDF. Uses local state or localStorage. Fully responsive and printable.
 
-- 📷 [**Photography Portfolio**](https://github.com/aruntamilarasu123)  
-  Simple photo gallery web app using React & Tailwind to showcase images
+- 📷 [**Kanban Board**](https://github.com/aruntamilarasu123/kanban-board-app)  
+  Kanban board for task management, allowing users to organize tasks into customizable columns such as To Do, In Progress, and Done.
 
 ---
 
