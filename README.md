@@ -11,14 +11,14 @@
 - 💼 Actively seeking **fresher-level opportunities** as a MERN Stack or Front-End Developer
 - 💬 Ask me about **React, Node.js, MongoDB, REST APIs, Tailwind CSS**
 - 📫 Reach me at **aruntamil087@gmail.com**
-- 🌐 Portfolio: [aruntamil.netlify.app](https://aruntamil.netlify.app/)
+- 🌐 Portfolio: [aruntamil.netlify.app](https://arunportfolio001.netlify.app/)
 
 ---
 
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://aruntamil.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://arunportfolio001.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/arun-t-07b683331/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:aruntamil087@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
